@@ -1,4 +1,4 @@
-EXTM3U
+#EXTM3U
 #EXTINF:-1 group-title="LATIN AMERICA",CGTN Español (Opt-1)
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 group-title="LATIN AMERICA",CGTN Español (Opt-2)
